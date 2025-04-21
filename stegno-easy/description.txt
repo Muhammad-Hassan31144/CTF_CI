@@ -1,0 +1,6 @@
+We've intercepted a photo from a known insider at “ByteNation Labs.” It’s just a cute cat meme… or is it?
+Rumor says the lab uses visual noise to smuggle secrets. Can you extract what’s hidden beneath the fur?
+
+########################################
+flag should not be uploaded
+CIR{PURRRRRRRRF3C7_S73G_FL4G}

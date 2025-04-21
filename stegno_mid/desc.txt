@@ -1,0 +1,14 @@
+You’ve recovered this pixel art image from a suspicious USB drive labeled “BACKUP_DO_NOT_OPEN.gif” — totally not suspicious.
+At first glance, it’s nothing but a grid of colored blocks...
+But something feels off. The image only looks basic — some colors seem carefully chosen.
+We suspect whoever created this encoded something in a subtle pattern… maybe even hidden in the color definitions themselves.
+
+Tip: Don't just look at the pixels — check what they're made of.
+
+
+#############################
+flag shud be removed
+CIR{H4RD3R_7H4N_17_L00K5}
+#############################
+run this command on linux with git file hamid..
+exiftool -Comment="You sure this isn't the flag? CIR{=EESBhEIhYETFNlUV9UWgEEVUV1Tgw0TPZEIBBSREFUTgUkVBhEIV9UW}" palette_panic.gif

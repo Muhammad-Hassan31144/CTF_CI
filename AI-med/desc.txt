@@ -1,0 +1,5 @@
+An intern accidentally deployed a machine learning model with inverted labels — spam is marked as safe, and safe messages are flagged as spam.
+You’ve been given access to its output predictions, but not the training logic.
+We’ve embedded one real spam message that was mistakenly labeled as non-spam. If you can spot it and submit the correct index, you’ll earn the flag.
+
+🧠 Pro tip: Think like a model. Don’t just guess — investigate the behavior, patterns, and language of spammy phrasing.
